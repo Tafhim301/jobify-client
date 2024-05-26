@@ -1,0 +1,20 @@
+
+    [
+      {
+        "id": 1,
+        "question": "What is an access token and refresh token? How do they work and where should we store them on the client-side?",
+        "answer": "Access tokens and refresh tokens are integral components of authentication and authorization mechanisms in web applications. Access tokens are short-lived credentials used to access protected resources, while refresh tokens are long-lived credentials used to obtain new access tokens after they expire. Access tokens should be stored in memory or browser storage on the client-side, while refresh tokens should be stored securely, preferably in HTTP-only cookies or local storage with proper encryption and protection mechanisms."
+      },
+      {
+        "id": 2,
+        "question": "What is Express.js? What is Nest.js?",
+        "answer": "Express.js is a minimalist web application framework for Node.js, designed to build web applications and APIs quickly and easily. Nest.js is a progressive Node.js framework built on top of Express.js, providing a modular and structured approach to building server-side applications. It brings familiar concepts such as modules, controllers, services, and dependency injection from Angular to server-side development."
+      },
+      {
+        "id": 3,
+        "question": "Explain your code.",
+        "answer": "The code implements authentication using JWT (JSON Web Tokens) in a Node.js application with Express.js. It utilizes the jsonwebtoken library to generate and verify JWT tokens, and integrates middleware to protect routes that require authentication. Additionally, it demonstrates how to securely store and manage access tokens and refresh tokens on the client-side following best practices for web security."
+      }
+    ]
+  
+  

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 3,
+        "name": "HTML",
+        "icon": "https://i.ibb.co/8X30rT3/images.png",
+        "description": "HTML is the standard markup language for creating web pages.",
+        "level": "Advanced"
+    },
+    {
+        "id": 4,
+        "name": "CSS",
+        "icon": "https://i.ibb.co/VBGz6Yc/download-2.png",
+        "description": "CSS is a style sheet language used for styling web pages.",
+        "level": "Intermediate"
+    },
+    {
+        "id": 1,
+        "name": "JavaScript",
+        "icon": "https://i.ibb.co/D4BLtt1/download-3.png",
+        "description": "JavaScript is a programming language commonly used for web development.",
+        "level": "Advanced"
+    },
+    {
+        "id": 2,
+        "name": "React",
+        "icon": "https://i.ibb.co/q7cGxqs/download-4.png",
+        "description": "React is a JavaScript library for building user interfaces.",
+        "level": "Intermediate"
+    }
+]

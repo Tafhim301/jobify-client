@@ -1,0 +1,43 @@
+[
+    {
+      "question": "How do I create an account on the website?",
+      "answer": "To create an account, click on the 'Login'  button on the homepage.From there go to register page by clicking on register Fill out the required information, including your name, email address, password, and profile picture URL, then click 'Submit' to create your account."
+    },
+    {
+      "question": "I forgot my password. How can I reset it?",
+      "answer": "If you've forgotten your password, you can reset it by clicking on the 'Forgot Password' link on the login page. Enter your email address, and we'll send you a link to reset your password."
+    },
+    {
+      "question": "How can I post a job listing on the website?",
+      "answer": "To post a job listing, you must first log in to your account. Once logged in, navigate to the 'Add A Job' page and fill out the required fields, including the job title, description, category, salary range, etc. Then, click 'Submit' to post your job listing."
+    },
+    {
+      "question": "Can I apply for jobs without creating an account?",
+      "answer": "No, you must have an account to apply for jobs on our platform. Creating an account allows you to track your applications, receive notifications, and access additional features."
+    },
+    {
+      "question": "How can I search for jobs on the website?",
+      "answer": "You can search for jobs by navigating to the 'All Jobs' page and using the search bar to enter keywords related to your desired job title or industry. You can also filter jobs by category, location, or job type to narrow down your search results."
+    },
+    {
+      "question": "What types of jobs are available on the website?",
+      "answer": "Our website features a variety of job types, including on-site, remote, hybrid, and part-time positions. You can filter job listings based on your preferences to find the right opportunity for you."
+    },
+    {
+      "question": "How can I update or delete a job listing that I've posted?",
+      "answer": "If you've posted a job listing and need to make changes or delete it, you can do so by logging in to your account and navigating to the 'My Jobs' page. From there, you'll be able to edit or delete your job listings as needed."
+    },
+    {
+      "question": "How can I contact support if I have a question or issue?",
+      "answer": "If you have any questions or encounter any issues while using our website, you can contact our support team by sending an email to support@example.com. We'll be happy to assist you with any concerns you may have."
+    },
+    {
+      "question": "Are there any fees associated with using the website?",
+      "answer": "No, our website is free for job seekers to use. There are no fees for creating an account, searching for jobs, or applying for job listings. However, employers may be charged a fee for posting job listings on our platform."
+    },
+    {
+      "question": "How can I stay updated on new job listings and website features?",
+      "answer": "To stay updated on new job listings and website features, you can subscribe to our newsletter or follow us on social media. We regularly post updates and announcements to keep our users informed about the latest opportunities and developments."
+    }
+  ]
+  
